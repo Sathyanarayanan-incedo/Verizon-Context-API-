@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    height:100svh;
+    background-image: url('OIP.jfif');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-size: contain;
+  }
+  
+  
+  .body-text {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    background-color: white;
+    align-items: center;
+    width: max-content;
+    overflow: hidden;
+  }
+  
